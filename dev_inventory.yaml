@@ -1,6 +1,0 @@
----
-- name: Ping Servers
-  hosts: all
-  tasks:
-    - ping: Ping
-      ping:
