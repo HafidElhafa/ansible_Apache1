@@ -1,2 +1,2 @@
 # ansible_Apache1
-ansible learning
+the purpose of this repository is to install manage apache with ansible
